@@ -12,6 +12,7 @@ AI-optimized library documentation for coding agents. 5–10× fewer tokens.
 
 | Repo | What |
 |------|------|
+| [roadmap](https://github.com/coderank-dev/roadmap) | Roadmap |
 | [coderank](https://github.com/coderank-dev/coderank) | CLI (Go + Charm) |
 | [api](https://github.com/coderank-dev/api) | API (Hono + Cloudflare Workers) |
 | [pipeline](https://github.com/coderank-dev/pipeline) | Indexing pipeline (Go) |
