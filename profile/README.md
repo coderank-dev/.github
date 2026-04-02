@@ -12,13 +12,17 @@ AI-optimized library documentation for coding agents. 5–10× fewer tokens.
 
 | Repo | What |
 |------|------|
-| [roadmap](https://github.com/coderank-dev/roadmap) | Roadmap |
 | [coderank](https://github.com/coderank-dev/coderank) | CLI (Go + Charm) |
-| [api](https://github.com/coderank-dev/api) | API (Hono + Cloudflare Workers) |
+| [api](https://github.com/coderank-dev/api) | REST API (Hono + Cloudflare Workers) |
 | [pipeline](https://github.com/coderank-dev/pipeline) | Indexing pipeline (Go) |
 | [registry](https://github.com/coderank-dev/registry) | Library configs (YAML) |
+| [web](https://github.com/coderank-dev/web) | Marketing site + dashboard (Next.js) |
+| [mlx](https://github.com/coderank-dev/mlx) | Local LLM inference (Apple Silicon) |
+| [crawl4ai](https://github.com/coderank-dev/crawl4ai) | Web crawler for external docs |
 | [coderank-bench](https://github.com/coderank-dev/coderank-bench) | Benchmarks |
-| [devkit](https://github.com/coderank-dev/devkit) | Claude Code config |
+| [devkit](https://github.com/coderank-dev/devkit) | Dev environment + Claude Code config |
+| [homebrew-tap](https://github.com/coderank-dev/homebrew-tap) | Homebrew formula for CLI distribution |
+| [roadmap](https://github.com/coderank-dev/roadmap) | Architecture docs + execution plan |
 
 ## Install
 
